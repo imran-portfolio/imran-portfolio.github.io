@@ -79,6 +79,14 @@ body {font-family:'Karla', sans-serif;background:#000}
 vertical-align: -7px;
     margin-right: 4px;  
 }
+.Password {
+    color: #c1ff6f;
+    font-size: 24px;
+}
+.Password span {
+    color: #ff3434;
+    font-size: 30px;
+}
 .gr{display:none}
 @media(max-width:768px) { 
 .introSection {
